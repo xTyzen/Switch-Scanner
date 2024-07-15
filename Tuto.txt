@@ -1,0 +1,29 @@
+Voici le tuto pour utiliser le script Switch-Scanner :
+
+D'abord faites les commandes suivantes dans un terminal windows ou linux : 
+
+pip install socket
+
+pip install os-sys
+
+pip install requests
+
+
+puis dès que c'est bon vous allez ouvrir le cmd et faire python Switch-Scanner.py 
+
+ou sinon pour linux ça sera 
+
+./Switch-Scanner.py
+
+Mais si sa ne marches pas faites
+
+chmod 777 Switch-Scanner.py
+
+ou 
+
+chmod +x Switch-Scanner.py
+
+ps : si le programme c'est lancer et vous avez mis l'adresse ip et que vous avez entrer et le programme prend un peut de temps 
+c'est totalement normal
+
+
